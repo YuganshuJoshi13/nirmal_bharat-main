@@ -27,6 +27,5 @@ User Adoption: Users are incentivized with credits, and the app includes an API 
 # Conclusion
 Although we didn't win in the Smart India Hackathon22 Grand Finale, we learned valuable lessons and plan to continue developing this project. Key takeaways include focusing on practical over theoretical solutions, prioritizing quality over quantity, and being straightforward with our work.
 
-https://user-images.githubusercontent.com/64737847/187531303-6e8c066a-159a-40a3-b7d0-c13393a75228.mp4
 
 
